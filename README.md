@@ -1,2 +1,2 @@
 # Sentiment-Analysis
-Sentiment analysis on movie review
+Sentiment Analysis on Movie Review
